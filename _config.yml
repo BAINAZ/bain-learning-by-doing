@@ -2,8 +2,7 @@ title: "BAIN-Blog: learning by doing"
 author: Franziska
 email: franziska.corradini@stud.fhgr.ch
 description: > # this means to ignore newlines until "baseurl:"
-  "Das ist ein Lerntagebuch in Form eines Blogs. |
-Das Modul Bibliotheks- und Archiinformatik wird an der Fachhochschule Graubünden im letzten Semester des Bachelorstudiengangs unterrichtet."
+  "Das ist ein Lerntagebuch in Form eines Blogs. |Das Modul Bibliotheks- und Archiinformatik wird an der Fachhochschule Graubünden im letzten Semester des Bachelorstudiengangs unterrichtet."
 theme: minima
 # social links
 twitter_username:  # DO NOT include the @ character, or else the build will fail!
