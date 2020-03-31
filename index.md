@@ -1,8 +1,7 @@
-# BAIN-Lernblog
-## Learning by Doing: Bibliotheks-& Archivinformatik
+## Learning by Doing: Durch machen verstehen
 
 Hey, schön das du reinschaust!
-Das ist ein Lernblog über Bibliotheks- und Archivinformatik. Gerne stelle ich dir aber vor, was uns von Felix Lohmeier im Unterricht beibringt.
-Er kann diesen Blog aber nur ein bisschen beeinflussen. Das ist dann auch der Grund, weswegen es im ersten Beitrag um meine technischen Irrwege geht, die schlussendlich zu diesem Blog geführt haben.
-Allerdings musst du dich noch ein wenig gedulden, bis der este Beitrag dann auch steht. In Zeiten des Corona läuft alles drunter und drüber und trotz Homeoffice scheint sich der Workload zu vervielfachen… (Ich weiss, voll unfair - Corona ist die Ausrede Nr. 1)
-Also, bis dann!
+Das ist ein Lernblog über Bibliotheks- und Archivinformatik. Dieses Modul haben wir gerade im Informationswissenschafts-Studium. Gerne stelle ich dir  vor, was ich bei Felix Lohmeier im Unterricht lerne.
+Gut möglich, dass ich von Zeit zu Zeit was falsch verstehe. Wenn dir Zweifel kommen, kannst du im Original-Skript nachlesen, wie es richtig geht: https://bain.felixlohmeier.de/#/01_technische-grundlagen
+Er kann diesen Blog übrigens auch nur ein bisschen beeinflussen. Das ist dann auch der Grund, weswegen es nicht nur um Inhalte sondern auch um meine technischen Irrwege geht - Schliesslich ist der Weg das Ziel, oder?
+Also, viel Spass beim durchstöbern!
