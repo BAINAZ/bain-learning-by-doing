@@ -1,5 +1,5 @@
 ---
-title: Bibliotheks- & Archivinformatik durch machen verstehen
+title: Bibliotheks- & Archivinformatik <br> Durch machen verstehen
 ---
 
 Hey, schön das du reinschaust!
