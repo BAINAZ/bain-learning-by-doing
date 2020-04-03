@@ -1,7 +1,7 @@
 ---
 title: Bibliotheks- & Archivinformatik 
 ---
-##Durch machen verstehen
+## Durch machen verstehen
 
 Hey, schön das du reinschaust!
 Das ist ein Lernblog über Bibliotheks- und Archivinformatik. Dieses Modul haben wir gerade im Informationswissenschafts-Studium. Gerne stelle ich dir  vor, was ich bei Felix Lohmeier im Unterricht lerne.
