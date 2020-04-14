@@ -1,4 +1,7 @@
-# Meine Motivation für das BAIN-Modul
+---
+title: "Motivation"
+date: 2020-03-03
+---
 Ganz ehrlich - Als ich den Modultitel "Bibliotheks- und Archivinformatik" zum ersten Mal las, graute es mir vor staubtrockenem Unterricht.  Hinzu kam, dass es nicht sonderlich viele Präsenztermine aber doch ein sehr breites Fachgebiet war. Die Befürchtung: Reine Theorie, 100 Begriffe zum auswendiglernen, wenig, was uns im Alltag nutzt.
 So kann man natürlich nicht in ein Semester starten, deswegen schob ich all diese negativen Gedanken beiseite und überlegte mir: Was will ich aus diesem Modul mitnehmen?
 * Ich möchte so viel über Bibliothekssysteme wissen, dass ich bei den Systembibliothekarinnen und -bibliothekaren exakte Anpassungen eingeben kann. Dazu muss ich in diesem Fach genug lernen, um die Umsetzbarkeit einer Systemanforderung korrekt einzuschätzen.
