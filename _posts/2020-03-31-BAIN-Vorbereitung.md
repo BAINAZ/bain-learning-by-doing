@@ -1,5 +1,5 @@
 ---
-title: "BAIN: Vorbereitung & Vorschau"
+title: "Vorbereitung & Vorschau"
 date: 2020-03-31
 ---
 Zum Glück fand die allereste BAIN-Unterrichtseinheit noch statt! Es war nämlich unsere letzte Veranstaltung, bevor die FHGR wegen dem Corona-Virus komplett auf Fernunterricht umstellte.
