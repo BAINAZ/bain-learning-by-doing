@@ -16,11 +16,7 @@ In einem ersten Schritt haben wir dann ein Testrepositorium erstellt:
 
 ![as_repository](https://user-images.githubusercontent.com/61733461/81039698-0a808200-8eaa-11ea-8a2a-b0916395b7ea.jpg)
 
-Danach haben wir darin eine Community & eine Collection eingetragen. Das ganze haben wir in der Gruppe gemacht. Obwohl wir das in der Gruppe parallel gemacht haben, hat jeder seine ganz persönliche Community & Collection aufgenommen:
-
-![as_hermine](https://user-images.githubusercontent.com/61733461/81040918-bfb43980-8eac-11ea-978b-4b9f075ced0c.gif)
-
-Nachträglich habe ich noch einen Collection-*Beitrag* erstellt. Das Formular dafür ist sehr einfach, hier ein Ausschnitt davon:
+Danach haben wir darin einen Eintrag in der Gruppe gemacht. Nachträglich habe ich noch einen Collection-Beitrag erstellt. Das Formular dafür ist sehr einfach, hier ein Ausschnitt davon:
 
 ![as_formular](https://user-images.githubusercontent.com/61733461/81039787-33a11280-8eaa-11ea-8031-0206f6e4b81e.jpg)
 
