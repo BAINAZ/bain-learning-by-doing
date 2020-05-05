@@ -5,7 +5,7 @@ date: 2020-04-14
 Heute starteten wir nach einem kurzen Rückblick auf die letzte Veranstaltung zu Koha mit einer Auffrischung der Metadatenstandards [ISAD(G)](https://de.wikipedia.org/wiki/ISAD(G)) und [EAD](https://de.wikipedia.org/wiki/Encoded_Archival_Description).
 In Kleingruppen untersuchten wir zwei bestehende Archivfindmittel, um in die Archivdenkweise einzutauchen. Danach ging es mit ArchivesSpace los.
 
-##ArchivesSpace
+## ArchivesSpace
 
 ArchivesSpace ist ein OpenSource Programm, das aus zwei Vorläuferprogrammen fusiniert wurde. Es gibt einen [Verein](https://archivesspace.org/member-area/thank-you-for-becoming-a-member), mit dessen Mitgliederbeiträgen 5 Vollzeitstellen geschaffen wurden, welche ArchivesSpace warten und weiterentwickeln. Dadurch ist es ziemlich hochwertig und wird weltweit genutzt:
 
