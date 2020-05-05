@@ -1,5 +1,5 @@
 ---
-title: "Spaces: Archivespace & DSpace"
+title: "Spaces: ArchivesSpace & DSpace"
 date: 2020-04-14
 ---
 Heute starteten wir nach einem kurzen Rückblick auf die letzte Veranstaltung zu Koha mit einer Auffrischung der Metadatenstandards [ISAD(G)](https://de.wikipedia.org/wiki/ISAD(G)) und [EAD](https://de.wikipedia.org/wiki/Encoded_Archival_Description).
