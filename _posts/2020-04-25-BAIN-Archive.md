@@ -41,12 +41,14 @@ Nach einer kurzen Streifung des Marktüberlicks ([Access to Memory (Atom)](https
 
 ## DSpace
 Dspace ist eine Repository-Software. Bevor wir die installierten, gab es einen kleine Exkurs zu Open Access und Open Data. Durch die Betrachtung von verschiedenen Statistiken und Webseiten zeigt uns Herr Lohmeier, das Dspace sehr weit verbreitet ist.
-Dspace konnten wir über eine Demo-Version online nutzen, ohne dass man das Programm gleich installieren mussten. Das ist ziemlich cool und halt mega einfach zum Bedienen. Im nu hat man dann eine Community und innerhalb der Community eine Collection angelegt.
+Dspace konnten wir über eine Demo-Version online nutzen, ohne dass man das Programm gleich installieren mussten. Das ist ziemlich cool und halt mega einfach zum Bedienen. Im nu hat man dann eine Community und innerhalb der Community eine Collection angelegt. Dank Bild-Einfüg-Option war das auch richtig spassig!
 Das sieht dann zum Beispiel so aus:
-BILD
 
-In dieser Collection konnten wir dann ein eigene Dokument in unsere Sammlung hochladen:
-BILD
+![ds_collection und community](https://user-images.githubusercontent.com/61733461/81041734-d2c80900-8eae-11ea-995a-c84749711c11.jpg)
+
+In dieser Collection konnten wir dann einen eigenen Beitrag in unsere Sammlung hochladen:
+
+![ds_Eintrag_vollanasicht](https://user-images.githubusercontent.com/61733461/81041789-ff7c2080-8eae-11ea-8706-6725ce2db2da.jpg)
 
 Zum Tagesabschluss zeigte uns Herr Lohmeier noch kurz einige weiterführende Infos zu DSpace und danach einen kleinen Marktüberblick zu verschiedenen Repositorien. Das alles und viel mehr kannst du in seinem [Skript](https://bain.felixlohmeier.de/#/04_repository-software-fuer-publikationen-und-forschungsdaten) nachlesen.
 Das wars von mir - Bis zum nächsten Eintrag!
