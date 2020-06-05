@@ -6,8 +6,10 @@ date: 2020-06-05
 Gestartet haben wir wie immer mit einem Ausblick auf den Tag un einem Rückblick zu einzelnen offenen Fragen der letzten Session.
 Danach ging es los mit:
 
-##OpenRefine
+## OpenRefine
+
 ![00_open refine](https://user-images.githubusercontent.com/61733461/83861997-a0196680-a721-11ea-9c7b-ba790e1a2983.jpg)
+
 *Bildquelle: https://openrefine.org/*
 
 Dazu hatten wir bereits im Vorbereitungsauftrag die [Library Carpentry Lesson zu OpenRefine](https://librarycarpentry.org/lc-open-refine/).
@@ -22,7 +24,7 @@ Mit OpenRefine kann man bei grossen Datenlieferungen die Daten erstmal durchscha
 Wenn man mit OpenRefine arbeiten möchte, sollte man sich bewusst sein, dass es auf das Arbeiten in Desktop-Umgebung konzipiert ist.
 
 
-	##XSLT Corsswalks mit MarcEdit
+## XSLT Corsswalks mit MarcEdit
 
 Bei den Crosswalks geht es um die Konvertierung von einem Metadatenstandard in einen anderen, z.B. MARC21 zu Dbulin Core
 Das Problem dabei ist, dass MARC21 sehr viele Felder hat, mehr als andere Standards. Darum lässt sich das nicht 1:1 übertragbar. Dann müssen schlussendlich trotzdem wieder Menschen überlegen, welches Feld das für die Umwandlung genommen wird. Es gibt aus diesne Gründen halt häufig kleine Verluste.
@@ -33,7 +35,6 @@ XSL ist die Sprache, das T steht für Transformation. Grundsätzlich ist es einf
 In der Gruppe haben wir auf dem Bildschirm von Erica gemeinsam eine MARC21-Datei in eine JSON-Datei umgewandelt. Das sah so aus:
 
 ![02-Marc-Tool-Rückmeldung](https://user-images.githubusercontent.com/61733461/83886839-e97cac80-a747-11ea-8ca2-8ebf82102eb9.jpg)
-![03-Marc-Tool-json-ergebnis](https://user-images.githubusercontent.com/61733461/83886841-ea154300-a747-11ea-8e6a-3843ff97cf9f.jpg)
 ![01Marc-tools](https://user-images.githubusercontent.com/61733461/83886842-ea154300-a747-11ea-9290-b64bc44223da.jpg)
 
 Die haben wir die Datei überprüft und das JSON schein valide zu sein. Ob es denn auch vollständig ist, das ist eine andere Sache…
@@ -47,8 +48,11 @@ http://sru.swissbib.ch/
 Nachdem wir erst einmal durch Probieren herausgefunden haben, dass wir mit dem Bibliothekscode (E27 für FH Graubündenbibliothek) suchen mussten, konnten wir die folgende Frage absetzen:
 
 ![04-SRU-Swissbib](https://user-images.githubusercontent.com/61733461/83887134-4d9f7080-a748-11ea-869e-0d4ac3df8320.jpg)
+
 Das führte zum Ergebnis von 1146 Treffer im XML-Format:
+
 ![05- Ergebnisse](https://user-images.githubusercontent.com/61733461/83887157-585a0580-a748-11ea-8a30-4cf600a1f0e5.jpg)
+
 Wenn man sich die Ergebnisse im Dublin Core ausgeben lässt, verbessert sich meiner Meinung nach die Lesbarkeit enorm:
 
 ![06_Ergebnis-dc](https://user-images.githubusercontent.com/61733461/83887195-6576f480-a748-11ea-8e16-2c9d7b15c786.jpg)
@@ -71,6 +75,7 @@ Die Installation brauchte trotz Anleitung einiges an Zeit. Immer wieder tauchte 
 ![07-c-vufind](https://user-images.githubusercontent.com/61733461/83887327-9525fc80-a748-11ea-8935-df38a8901457.jpg)
 
 ...bis endlich alles im grünen Bereich war:
+
 ![08-alles grün](https://user-images.githubusercontent.com/61733461/83887383-a5d67280-a748-11ea-94d0-44efb52c3531.gif)
 
 Danach arbeiteten wir in Gruppen an einem [Tutorial](https://felixlohmeier.gitbooks.io/vufind-tutorial-de/content/04_Installation_Testimport.html)
